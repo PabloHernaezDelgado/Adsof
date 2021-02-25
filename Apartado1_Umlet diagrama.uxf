@@ -72,9 +72,7 @@
 +Camion(String mod, int a, String matricula, int numEje) {constructor]
 /+numeroRuedas() : int/
 +toString() : String
-+getIndiceContaminacion() : IndiceContaminacion
-+getNumeroEjes() : int
-+setNumeroEjes(numeroEjes : int)</panel_attributes>
++getIndiceContaminacion() : IndiceContaminacion</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
